@@ -1,0 +1,9 @@
+C:\wamp\www\sel\selenium\selenium\bin\Debug\selenium.dll
+C:\wamp\www\sel\selenium\selenium\bin\Debug\selenium.pdb
+C:\wamp\www\sel\selenium\selenium\bin\Debug\WebDriver.dll
+C:\wamp\www\sel\selenium\selenium\bin\Debug\WebDriver.Support.dll
+C:\wamp\www\sel\selenium\selenium\bin\Debug\WebDriver.xml
+C:\wamp\www\sel\selenium\selenium\bin\Debug\WebDriver.Support.xml
+C:\wamp\www\sel\selenium\selenium\obj\Debug\selenium.csprojResolveAssemblyReference.cache
+C:\wamp\www\sel\selenium\selenium\obj\Debug\selenium.dll
+C:\wamp\www\sel\selenium\selenium\obj\Debug\selenium.pdb
